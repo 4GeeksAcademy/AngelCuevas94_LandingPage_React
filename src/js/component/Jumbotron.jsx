@@ -3,7 +3,7 @@ import React from "react";
 const Jumbotron = () => {
 
     return (
-        <div className="card">
+        <div className="card" style={{height:"15rem"}}>
             <div className="card-header">
                 Featured
             </div>
