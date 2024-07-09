@@ -3,14 +3,11 @@ import React from "react";
 const Jumbotron = () => {
 
     return (
-        <div className="card" style={{height:"15rem"}}>
-            <div className="card-header">
-                Featured
-            </div>
+        <div className="card col-lg-11" style={{height:"15rem", width:"-30px", marginLeft:"auto",marginRight:"auto"}}>
             <div className="card-body">
-                <h5 className="card-title">Special title treatment</h5>
-                <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                <a href="#" className="btn btn-primary">Go somewhere</a>
+                <h1 className="card-title d-flex justify-content-start">Special title treatment</h1>
+                <p className="card-text d-flex justify-content-start">With supporting text below as a natural lead-in to additional content.</p>
+                
             </div>
         </div>
     );

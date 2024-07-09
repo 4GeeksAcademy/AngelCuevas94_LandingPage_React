@@ -11,16 +11,20 @@ const Home = () => {
 	return (
 		<div className="text-center">
 			<Navbar/>
-			<div className="container">
-				<Jumbotron />
+			<div className="container col-lg-10">
+				<div className="container">
+					<Jumbotron />
+				</div>
+				<div className="container d-flex justify-content-center mt-3 col-lg-10" >
+					<Card/>
+					<Card/>
+					<Card/>
+					<Card/>
+				</div>
 			</div>
-			<div className="container col-lg-11 d-flex justify-content-center mt-3" >
-				<Card/>
-				<Card/>
-				<Card/>
-			</div>
-			
+			<div>
 			<Footer/>
+			</div>
 		</div>
 		
 	);
