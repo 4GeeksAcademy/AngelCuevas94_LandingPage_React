@@ -11,15 +11,15 @@ const Home = () => {
 	const data = [
 		{ title: "Primera Carta",
 			url: "https://images.unsplash.com/photo-1718976142386-e9ebe34d3aee?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			texto: "Pork bacon venison, short loin tenderloin ground round jowl. Alcatra jowl t-bone corned beef andouille tail spare ribs ham hock biltong salami pork belly pancetta hamburger pig sausage"
+			texto: "Pork bacon venison, short loin tenderloin ground round jowl. Alcatra jowl t-bone corned beef andouille tail "
 		 },
 		{ title: "Segunda Carta",
-			url: "https://images.unsplash.com/photo-1720247522784-ba24b938534d?q=80&w=2667&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			url: "https://images.unsplash.com/photo-1718862403436-616232ec6005?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 			texto: " short loin tenderloin ground round jowl. Alcatra jowl t-bone corned beef andouille tail spare  pig sausage"
 		 },
 		{ title: "Tercera Carta",
 			url: "https://images.unsplash.com/photo-1720329461017-d6ed9f66beb5?q=80&w=2920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-			texto: "t-bone corned beef andouille tail spare ribs ham hock biltong salami pork belly pancetta hamburger pig sausage"
+			texto: "t-bone corned beef andouille tail spare ribs ham hock biltong salami pancetta hamburger pig sausage"
 		 },
 		{ title: "Cuarta Carta",
 			url:"https://images.unsplash.com/photo-1719056307923-a11de279d25f?q=80&w=2828&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
